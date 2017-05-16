@@ -1,3 +1,4 @@
 aaaa
 bb
 ccc
+Git tracks changes.
