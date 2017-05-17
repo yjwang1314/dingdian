@@ -1,2 +1,2 @@
 This is a JW file.
-JW tests merge with --no--ff.
+JW merge with --no--ff.
