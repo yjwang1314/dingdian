@@ -1,2 +1,0 @@
-This is a bw file.
-bw merge with --no--ff.

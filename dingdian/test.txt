@@ -1,6 +1,0 @@
-aaaa
-bb
-ccc
-Git tracks changes of files.
-Creating a new branch is quick & simple.
-Yes, it is quick.

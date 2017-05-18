@@ -1,2 +1,0 @@
-This is a JW file.
-JW merge with --no--ff.
